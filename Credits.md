@@ -127,6 +127,7 @@ Omega_finale
 [Prodam](https://github.com/Pr0dam)
 [B3llial](https://github.com/B3lli4l)
 Kalinka
+[Qnit](https://github.com/Qn1t)
 
 ## Lore
 [Ayanna](https://github.com/JustACloud)
