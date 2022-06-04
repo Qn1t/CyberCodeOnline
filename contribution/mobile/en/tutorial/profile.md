@@ -126,4 +126,4 @@ A percent multiplier showing how much BitCoin you can additionally gain. The max
 Current Enemy Gang's affection that'll increase their damage against you. The max multiplier is 10%.
 
 ### Mark
-Current Mark thats assigned to your charatcer. This Mark will affect your damage against specific Enemy Gang. The max multiplier is 10%.
+Current Mark thats assigned to your character. This Mark will affect your damage against specific Enemy Gang. The max multiplier is 10%.
